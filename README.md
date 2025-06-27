@@ -50,24 +50,24 @@ Churn Trends Over Time (Line/Area Chart):
    
 	• Chart Type: Line/Area Chart
 
-• Metric: Churn Rate by Month or Quarter
+	• Metric: Churn Rate by Month or Quarter
 
-• Description: Visualize churn trends over time to assess if retention strategies are improving outcomes.
+	• Description: Visualize churn trends over time to assess if retention strategies are improving outcomes.
 
- Geographic Distribution by State
+ Geographic Distribution by State:
    
-• Chart Type: Barchart
+	• Chart Type: Barchart
 
-• Metric: Churn Rate by State
+	• Metric: Churn Rate by State
 
-•Description: Identify regional differences in customer churn behavior.
+	•Description: Identify regional differences in customer churn behavior.
 
 
 3. Churn by Demographics (Bar Charts / Pie Charts)
    
-• Metrics: Churn by Gender, Age Group, Contract Type, Tenure Group
+	• Metrics: Churn by Gender, Age Group, Contract Type, Tenure Group
 
-• Description: Segment churn analysis by key demographic variables.
+	• Description: Segment churn analysis by key demographic variables.
 
 4. Services Impact on Churn (Bar Charts)
 
