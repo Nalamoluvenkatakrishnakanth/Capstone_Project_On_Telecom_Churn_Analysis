@@ -48,7 +48,7 @@ In our Customer Churn Analysis & Prediction project, we aim to present key churn
 
 Churn Trends Over Time (Line/Area Chart):
    
-• Chart Type: Line/Area Chart
+	• Chart Type: Line/Area Chart
 
 • Metric: Churn Rate by Month or Quarter
 
