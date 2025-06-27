@@ -90,15 +90,22 @@ Predictive Churn Dashboard (ML-Based Insights):
 ##### Objective
 
 To deliver an intuitive Customer Churn Dashboard and ML-powered churn prediction pipeline that allows users to:
-• Monitor overall churn metrics.
-• Drill down by key demographics and service categories.
-• Identify geographic hotspots of churn.
-• Predict future churners using machine learning (Random Forest Classifier).
-• Understand key factors driving churn through feature importance.
+	• Monitor overall churn metrics.
+ 
+	• Drill down by key demographics and service categories.
+ 
+	• Identify geographic hotspots of churn.
+ 
+	• Predict future churners using machine learning (Random Forest Classifier).
+ 
+	• Understand key factors driving churn through feature importance.
+ 
 
 This dashboard will serve as a single point of reference for marketing teams, retention managers, and executive stakeholders to monitor churn performance and design customer retention strategies.
 
 Tools & Techniques Will be used
 • Data Engineering: SQL (Data Cleaning, Transformation, Null Handling)
+
 • Data Modeling & Visualization: Power BI (Power Query transformations, DAX measures, interactive dashboards)
+
 • Machine Learning: Python (Random Forest Classifier for Churn Prediction, Feature Importance extraction)
