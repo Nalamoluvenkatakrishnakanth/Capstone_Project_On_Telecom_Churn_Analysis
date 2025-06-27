@@ -46,7 +46,7 @@ Predictive KPI’s:
 In our Customer Churn Analysis & Prediction project, we aim to present key churn-related metrics and predictive insights through visual dashboards and machine learning models. The visualizations will empower business stakeholders to understand churn patterns, evaluate risk segments, and implement targeted retention strategies.
 
 
-Churn Trends Over Time (Line/Area Chart)
+Churn Trends Over Time (Line/Area Chart):
    
 • Chart Type: Line/Area Chart
 
