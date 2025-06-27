@@ -63,7 +63,7 @@ Churn Trends Over Time (Line/Area Chart):
 	•Description: Identify regional differences in customer churn behavior.
 
 
-3. Churn by Demographics (Bar Charts / Pie Charts)
+3. Churn by Demographics (Bar Charts / Pie Charts):
    
 	• Metrics: Churn by Gender, Age Group, Contract Type, Tenure Group
 
