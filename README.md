@@ -9,6 +9,7 @@ To monitor, analyze, and predict customer churn trends in the telecom sector, th
 ##### Key Performance Indicators (KPI’s) Requirements
 
 General Churn KPIs:
+
 	•	Total Customers: Count of all customers in the data set to assess overall base.
  
 	•	Total Churned Customers: Count of customers who have churned.
@@ -19,6 +20,7 @@ General Churn KPIs:
  
 
 Demographic & Behavioral KPI’s:
+
 	•	Churn Rate by Gender
  
 	•	Churn Rate by State
@@ -33,6 +35,7 @@ Demographic & Behavioral KPI’s:
  
 
 Predictive KPI’s:
+
 	•	Count of Predicted Churners (using ML model)
  
 	•	Top Factors influencing Churn (Feature Importance)
@@ -42,32 +45,45 @@ Predictive KPI’s:
 
 In our Customer Churn Analysis & Prediction project, we aim to present key churn-related metrics and predictive insights through visual dashboards and machine learning models. The visualizations will empower business stakeholders to understand churn patterns, evaluate risk segments, and implement targeted retention strategies.
 
+
 1. Churn Trends Over Time (Line/Area Chart)
    
 • Chart Type: Line/Area Chart
+
 • Metric: Churn Rate by Month or Quarter
+
 • Description: Visualize churn trends over time to assess if retention strategies are improving outcomes.
 
-2. Geographic Distribution by State 
+2. Geographic Distribution by State
+   
 • Chart Type: Barchart
+
 • Metric: Churn Rate by State
+
 •Description: Identify regional differences in customer churn behavior.
 
 
-
-
 3. Churn by Demographics (Bar Charts / Pie Charts)
+   
 • Metrics: Churn by Gender, Age Group, Contract Type, Tenure Group
+
 • Description: Segment churn analysis by key demographic variables.
 
 4. Services Impact on Churn (Bar Charts)
+
 • Metric: Churn Rate by type of services used (Internet, Phone, Streaming, Premium Services)
+
 • Description: Understand how product/service combinations affect churn behavior.
 
+
 5.Predictive Churn Dashboard (ML-Based Insights)
+
 • Count of Predicted Churners
+
 • Feature Importance (Bar Chart) — Top factors influencing churn
+
 • Description: Provide proactive insights into which customers are most likely to churn and why, enabling targeted interventions.
+
 
 #### DETAILS
 
