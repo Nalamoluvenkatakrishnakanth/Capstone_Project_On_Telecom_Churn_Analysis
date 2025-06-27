@@ -103,7 +103,9 @@ To deliver an intuitive Customer Churn Dashboard and ML-powered churn prediction
 
 This dashboard will serve as a single point of reference for marketing teams, retention managers, and executive stakeholders to monitor churn performance and design customer retention strategies.
 
-Tools & Techniques Will be used
+
+##### Tools & Techniques Will be used
+
 • Data Engineering: SQL (Data Cleaning, Transformation, Null Handling)
 
 • Data Modeling & Visualization: Power BI (Power Query transformations, DAX measures, interactive dashboards)
