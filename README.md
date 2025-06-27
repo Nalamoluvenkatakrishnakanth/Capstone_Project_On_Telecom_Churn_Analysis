@@ -63,26 +63,26 @@ Churn Trends Over Time (Line/Area Chart):
 	•Description: Identify regional differences in customer churn behavior.
 
 
-3. Churn by Demographics (Bar Charts / Pie Charts):
+Churn by Demographics (Bar Charts / Pie Charts):
    
 	• Metrics: Churn by Gender, Age Group, Contract Type, Tenure Group
 
 	• Description: Segment churn analysis by key demographic variables.
 
-4. Services Impact on Churn (Bar Charts)
+Services Impact on Churn (Bar Charts):
 
-• Metric: Churn Rate by type of services used (Internet, Phone, Streaming, Premium Services)
+	• Metric: Churn Rate by type of services used (Internet, Phone, Streaming, Premium Services)
 
-• Description: Understand how product/service combinations affect churn behavior.
+	• Description: Understand how product/service combinations affect churn behavior.
 
 
-5.Predictive Churn Dashboard (ML-Based Insights)
+Predictive Churn Dashboard (ML-Based Insights):
 
-• Count of Predicted Churners
+	• Count of Predicted Churners
 
-• Feature Importance (Bar Chart) — Top factors influencing churn
+	• Feature Importance (Bar Chart) — Top factors influencing churn
 
-• Description: Provide proactive insights into which customers are most likely to churn and why, enabling targeted interventions.
+	• Description: Provide proactive insights into which customers are most likely to churn and why, enabling targeted interventions.
 
 
 #### DETAILS
