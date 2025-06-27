@@ -10,20 +10,31 @@ To monitor, analyze, and predict customer churn trends in the telecom sector, th
 
 General Churn KPIs:
 	•	Total Customers: Count of all customers in the data set to assess overall base.
+ 
 	•	Total Churned Customers: Count of customers who have churned.
+ 
 	•	Churn Rate: Ratio of churned customers to total customers.
+ 
 	•	New Joiners: Count of newly acquired customers.
+ 
 
 Demographic & Behavioral KPI’s:
 	•	Churn Rate by Gender
+ 
 	•	Churn Rate by State
+ 
 	•	Churn Rate by Contract Type
+ 
 	•	Churn Rate by Age Group
+ 
 	•	Churn Rate by Tenure Group
+ 
 	•	Monthly Charge Range Impact on Churn
+ 
 
 Predictive KPI’s:
 	•	Count of Predicted Churners (using ML model)
+ 
 	•	Top Factors influencing Churn (Feature Importance)
 
 
@@ -32,6 +43,7 @@ Predictive KPI’s:
 In our Customer Churn Analysis & Prediction project, we aim to present key churn-related metrics and predictive insights through visual dashboards and machine learning models. The visualizations will empower business stakeholders to understand churn patterns, evaluate risk segments, and implement targeted retention strategies.
 
 1. Churn Trends Over Time (Line/Area Chart)
+   
 • Chart Type: Line/Area Chart
 • Metric: Churn Rate by Month or Quarter
 • Description: Visualize churn trends over time to assess if retention strategies are improving outcomes.
