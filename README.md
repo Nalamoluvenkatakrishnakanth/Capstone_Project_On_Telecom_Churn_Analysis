@@ -1,4 +1,4 @@
-# TELECOM CUSTOMER CHURN ANALYSIS & PREDICTION REPORT
+# TELECOM CUSTOMER CHURN ANALYSIS & PREDICTION 
 
 ### PROBLEM STATEMENT
 
@@ -90,6 +90,7 @@ Predictive Churn Dashboard (ML-Based Insights):
 ##### Objective
 
 To deliver an intuitive Customer Churn Dashboard and ML-powered churn prediction pipeline that allows users to:
+
 	• Monitor overall churn metrics.
  
 	• Drill down by key demographics and service categories.
