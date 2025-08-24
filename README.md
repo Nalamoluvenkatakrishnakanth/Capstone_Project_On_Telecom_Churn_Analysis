@@ -21,24 +21,24 @@ General Churn KPIs:
 
 Demographic & Behavioral KPI’s:
 
-	•	Churn Rate by Gender
+	•	Churn Rate by Gender.
  
-	•	Churn Rate by State
+	•	Churn Rate by State.
  
-	•	Churn Rate by Contract Type
+	•	Churn Rate by Contract Type.
  
-	•	Churn Rate by Age Group
+	•	Churn Rate by Age Group.
  
-	•	Churn Rate by Tenure Group
+	•	Churn Rate by Tenure Group.
  
-	•	Monthly Charge Range Impact on Churn
+	•	Monthly Charge Range Impact on Churn.
  
 
 Predictive KPI’s:
 
-	•	Count of Predicted Churners (using ML model)
+	•	Count of Predicted Churners (using ML model).
  
-	•	Top Factors influencing Churn (Feature Importance)
+	•	Top Factors influencing Churn (Feature Importance).
 
 
 ##### OVERVIEW
@@ -65,13 +65,13 @@ Churn Trends Over Time (Line/Area Chart):
 
 Churn by Demographics (Bar Charts / Pie Charts):
    
-	• Metrics: Churn by Gender, Age Group, Contract Type, Tenure Group
+	• Metrics: Churn by Gender, Age Group, Contract Type, Tenure Group.
 
 	• Description: Segment churn analysis by key demographic variables.
 
 Services Impact on Churn (Bar Charts):
 
-	• Metric: Churn Rate by type of services used (Internet, Phone, Streaming, Premium Services)
+	• Metric: Churn Rate by type of services used (Internet, Phone, Streaming, Premium Services).
 
 	• Description: Understand how product/service combinations affect churn behavior.
 
@@ -80,7 +80,7 @@ Predictive Churn Dashboard (ML-Based Insights):
 
 	• Count of Predicted Churners
 
-	• Feature Importance (Bar Chart) — Top factors influencing churn
+	• Feature Importance (Bar Chart) — Top factors influencing churn.
 
 	• Description: Provide proactive insights into which customers are most likely to churn and why, enabling targeted interventions.
 
